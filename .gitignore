@@ -1,0 +1,4 @@
+# Footage: binarios pesados, no versionar. El MANIFEST reproduce cada corte.
+football-clips/**/*.mp4
+football-clips/**/*.png
+football-clips/**/_src/
